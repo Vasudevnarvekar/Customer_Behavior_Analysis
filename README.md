@@ -162,5 +162,5 @@ This project was built to:
 ## Author
 
 **Vasudev Narvekar**
-Final Year Computer Engineering Student
+Final Year Computer Engineering Student,
 Aspiring Data Analyst

@@ -81,7 +81,7 @@ The dataset is used to simulate a real-world business analytics scenario.
 ### 5. Power BI Dashboard
 
 * Connected Power BI to SQL database
-* Built interactive dashboards including:
+* Built interactive dashboards including :
 
   * Key KPIs
   * Customer segmentation
@@ -93,7 +93,7 @@ The dataset is used to simulate a real-world business analytics scenario.
 
 ## Dashboard
 
-The Power BI dashboard provides:
+The Power BI dashboard provides :
 
 * Clear KPIs for decision-making
 * Interactive filtering and slicing
